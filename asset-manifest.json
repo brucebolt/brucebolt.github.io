@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca8b71ea.css",
+    "main.js": "/static/js/main.d4180380.js",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/resume.pdf": "/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/index.html",
+    "main.ca8b71ea.css.map": "/static/css/main.ca8b71ea.css.map",
+    "main.d4180380.js.map": "/static/js/main.d4180380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca8b71ea.css",
+    "static/js/main.d4180380.js"
+  ]
+}
